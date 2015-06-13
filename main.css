@@ -1,0 +1,52 @@
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+<link href='http://fonts.googleapis.com/css?family=Lora' rel='stylesheet' type='text/css'>
+
+body {
+	font-family: 'Tangerine', serif;
+	font-size: 50px;
+        font-color:#DB5844
+        text-align:center;
+}
+
+h1 {
+	font-family: 'Tangerine', serif;
+        font-size: 32px;
+        font-color:#DB5844
+        text-align:center;
+}
+
+p { 
+	font-family: ‘Metrophobic’, Arial, serif; 
+	font-weight: 400; 
+	font-size: 18px;
+	margin-left: 40px;
+	text-align:left;
+}
+
+ul { 
+	list-style-type: none;
+	margin: 0;
+	padding: 0;	
+	overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+a:link, a:visited {
+    display: block;
+    width: 120px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #5E7D7E;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover, a:active {
+    background-color: #7D5F5E;
+}
+
