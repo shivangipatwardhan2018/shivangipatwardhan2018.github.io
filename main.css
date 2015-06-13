@@ -3,12 +3,12 @@ body {
 	font-size: 50px;
         font-color:#DB5844
         text-align:center;
-	backgound-color: #46C7C7;
+	backgound-color:#43C6DB;
 }
 
 h1 {
 	font-family: 'Tangerine', serif;
-        font-size: 32px;
+        font-size: 50px;
         font-color:#DB5844
         text-align:center;
 }
@@ -26,7 +26,7 @@ ul {
 	margin: 0;
 	padding: 0;	
 	overflow: hidden;
-	font-size: 32px;
+	font-size: 16px;
 }
 
 li {
