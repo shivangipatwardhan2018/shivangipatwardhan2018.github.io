@@ -1,9 +1,9 @@
 body {
+	backgound-color:#43C6DB;
 	font-family: 'Tangerine', serif;
 	font-size: 50px;
         font-color:#DB5844
         text-align:center;
-	backgound-color:#43C6DB;
 }
 
 h1 {
@@ -19,6 +19,8 @@ p {
 	font-size: 18px;
 	margin-left: 40px;
 	text-align:left;
+	max-height: 700px;
+	max-width: 700px;
 }
 
 ul { 
@@ -35,7 +37,7 @@ li {
 
 a:link, a:visited {
     display: block;
-    width: 400px;
+    width: 300px;
     font-weight: bold;
     color: #FFFFFF;
     background-color: #5E7D7E;
