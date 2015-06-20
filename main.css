@@ -37,12 +37,13 @@ li {
 
 a:link, a:visited {
     display: block;
-    width: 200px;
+    width: 300px;
     font-weight: bold;
     color: #FFFFFF;
     background-color: #FFE649;
     text-align: center;
     padding: 4px;
+    margin-left:-375px
     text-decoration: none;
     text-transform: uppercase;
 }
