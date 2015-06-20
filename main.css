@@ -39,12 +39,12 @@ a:link, a:visited {
     display: table;
     margin:0 auto;
     text-align:center;
-    width: 300px;
+    width: 200px;
     font-weight: bold;
-    color: #;
+    color: #000000;
     background-color: #FFE649;
     text-align: center;
-    padding: 4px;
+    padding: 15px;
     margin-left:-375px
     text-decoration: none;
     text-transform: uppercase;
