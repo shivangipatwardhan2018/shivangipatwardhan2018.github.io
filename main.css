@@ -35,6 +35,12 @@ li {
     float: left;
 }
 
+#menu { 
+	width: 100%;
+	height: 600px;
+	background-color: #FFE649; 
+}
+
 a:link, a:visited {
     display: table;
     margin:0 auto;
