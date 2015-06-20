@@ -1,5 +1,5 @@
 body {
-	background-color:#43C6DB;
+	background-color:#14ACA1;
 	font-family: 'Tangerine', serif;
 	font-size: 50px;
         font-color:#DB5844
@@ -37,10 +37,10 @@ li {
 
 a:link, a:visited {
     display: block;
-    width: 300px;
+    width: 200px;
     font-weight: bold;
     color: #FFFFFF;
-    background-color: #5E7D7E;
+    background-color: #FFE649;
     text-align: center;
     padding: 4px;
     text-decoration: none;
@@ -48,6 +48,6 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-    background-color: #7D5F5E;
+    background-color: #CCB005;
 }
 
