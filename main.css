@@ -36,13 +36,15 @@ li {
 }
 
 a:link, a:visited {
-    display: block;
+    display: table;
+    margin:0 auto;
+    text-align:center;
     width: 300px;
     font-weight: bold;
-    color: #FFFFFF;
+    color: #;
     background-color: #FFE649;
     text-align: center;
-    padding: 4px;
+    padding: 30px;
     margin-left:-375px
     text-decoration: none;
     text-transform: uppercase;
