@@ -28,27 +28,25 @@
 				<span><span></span></span>SHIVANGI PATWARDHAN
 			</div>
 		</a>
-		<nav id="navbar" role="navigation" >
-			<a class= "jumpmenu"></a>
-			<ul>
+
+		<nav class="menu" role="navigation" >
+			<ul class="navigate">
 				<li class="current"><a href="#home">HOME</a></li>
 				<li><a href="#skills">SKILLS</a></li>
 				<li><a href="#workexperience">WORK EXPERIENCE</a></li>
 				<li><a href="#projects">PROJECTS</a></li>
 				<li><a href="resume/ShivangiResume.pdf" target="_blank">RESUME</a></li>
-			</ul>
-		</nav>
-		<nav class="menu" >
-			<ul id="navigate">
-				<li class="current"><a href="#home">HOME</a></li>
-				<li><a href="#skills">SKILLS</a></li>
-				<li><a href="#workexperience">WORK EXPERIENCE</a></li>
-				<li><a href="#projects">PROJECTS</a></li>
-				<li><a href="resume/ShivangiResume.pdf" target="_blank">RESUME</a></li>
+				<li class="icon">
+   					 <a href="javascript:void(0);" style="font-size:40px;" onclick="myFunction()">☰</a>
+ 				</li>
 			</ul>
 		</nav>
 	</header>
-
+	<script>
+	function myFunction() {
+   		 document.getElementsByClassName("navigate")[0].classList.toggle("responsive");
+	}	
+</script>
 	<article id="home" class="light">
 		<header class="article-title"> INTRODUCTION </header>
 			<div class="spacer-element"></div>
