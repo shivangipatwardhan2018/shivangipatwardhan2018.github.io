@@ -1,5 +1,5 @@
 /*Menu Management*/
-
+//Changes done
 #base{
 	height:100%;
 }
@@ -169,7 +169,6 @@ ul.navigate li.icon{display:none; margin-top:30px;}
 	
     
 }
-
 
 .skill-title{
 	font-family: 'Lato', sans-serif;
@@ -345,7 +344,7 @@ ul.navigate li.icon{display:none; margin-top:30px;}
 
 .tech{
 	font-size: 15px;
-	padding-top:7%;
+	padding-top:10%;
 	letter-spacing: 3px;
 	font-family:"New York";
 	font-weight:300;
@@ -397,7 +396,7 @@ ul.navigate li.icon{display:none; margin-top:30px;}
 	
 }
 
-@media screen and (max-width:990px) {
+@media screen and (max-width:1000px) {
   ul.navigate li {display: none; margin-top:30px;}
   ul.navigate li.icon {
     float: right;
@@ -406,7 +405,7 @@ ul.navigate li.icon{display:none; margin-top:30px;}
   }
 }
 
-@media only screen and (max-width: 990px) {
+@media only screen and (max-width: 1000px) {
 	html {
 		font-size: 75%;
 	}
